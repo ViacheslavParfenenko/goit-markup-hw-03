@@ -101,12 +101,12 @@ body {
   text-align: center;
 }
 
-hero-container {
+.hero-container {
 
 }
 .hero-text {
   color: #fff;
-  /* text-align: center; */
+  text-align: center;
   font-family: Roboto;
   font-size: 56px;
   font-weight: 700;
@@ -142,6 +142,16 @@ hero-container {
 }
 
 /* Tools */
+.toold {
+  padding: 120px 0
+}
+
+.tools-container {display: flex;
+  gap: 24px;
+
+
+}
+
 .visually-hidden {
   position: absolute;
   width: 1px;
@@ -155,6 +165,14 @@ hero-container {
   overflow: hidden;
 }
 
+.tools-list {
+  
+}
+
+.tools-menu-item { 
+  flex-basis: calc((100% - 3 * 24px) / 4);
+}
+
 .tools-name {
   color: #2e2f42;
 
@@ -163,6 +181,7 @@ hero-container {
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  margin-bottom: 8px;
 }
 
 .tools-text {
