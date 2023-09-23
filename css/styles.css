@@ -146,9 +146,7 @@ body {
   padding: 120px 0
 }
 
-.tools-container {display: flex;
-  gap: 24px;
-
+.tools-container {
 
 }
 
@@ -166,7 +164,9 @@ body {
 }
 
 .tools-list {
-  
+  display: flex;
+  gap: 24px;
+
 }
 
 .tools-menu-item { 
