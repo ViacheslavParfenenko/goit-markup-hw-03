@@ -11,7 +11,7 @@ body {
   border-bottom: 1px solid #e7e9fc
 }
 
-.header-div {
+.header-container {
   display: flex;
   width: 1158px;
   margin: 0 auto;
@@ -55,6 +55,7 @@ body {
   letter-spacing: 0.02em;
   display: flex;
   gap: 40px;
+  padding: 24px 0
 }
 
 .header-link {
