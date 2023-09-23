@@ -7,6 +7,15 @@ body {
 
 /* header */
 
+.header {
+  border-bottom: 1px solid #e7e9fc
+}
+
+.header-div {
+  display: flex;
+
+}
+
 .header-logo {
   color: #4d5ae5;
   font-family: Raleway, sans-serif;
