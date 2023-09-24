@@ -86,6 +86,11 @@ img {
   padding: 24px 0
 }
 
+.header-menu-item link 
+{
+  padding: 24px 0;
+}
+
 .header-link {
   color: #2e2f42;
 }
