@@ -36,7 +36,9 @@ img {
 /* header */
 
 .header {
-  border-bottom: 1px solid #e7e9fc
+  border-bottom: 1px solid #e7e9fc;
+  padding: 24px 0;
+
 }
 
 .header-container {
@@ -87,7 +89,7 @@ img {
   letter-spacing: 0.02em;
   display: flex;
   gap: 40px;
-  padding: 24px 0
+  
 }
 
 .header-menu-item link 
