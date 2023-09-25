@@ -96,11 +96,12 @@ img {
 
 .header-menu-item link 
 {
-  padding: 24px 0;
+  
 }
 
 .header-link {
   color: #2e2f42;
+  padding: 24px 0;
 }
 
 .header-link:hover,
@@ -296,6 +297,7 @@ img {
 }
 
 .mate-container {
+  padding: 32px 0 
   
 } 
 
